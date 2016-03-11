@@ -44,7 +44,7 @@ cmake .. -G"$CMAKE_GENERATOR"                                            \
     -DWITH_CUDA=0                                                        \
     -DWITH_OPENCL=0                                                      \
     -DWITH_OPENNI=0                                                      \
-    -DWITH_FFMPEG=0                                                      \
+    -DWITH_FFMPEG=1                                                      \
     -DCMAKE_INSTALL_PREFIX=$PREFIX
 make -j${CPU_COUNT}
 make install
