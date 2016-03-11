@@ -4,7 +4,7 @@ package:
 
 source:
   fn: opencv-2.4.12.zip
-  url: https://github.com/Itseez/opencv/archive/2.4.12.zip
+  url: https://codeload.github.com/Itseez/opencv/zip/2.4.12
 
 build:
   number: 1
