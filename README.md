@@ -5,7 +5,7 @@ see original [README.MD](https://github.com/menpo/conda-opencv)
 
 ONLY TESTED ON OSX!!
 
-For this to work, you first need to install FFMPEG (<v.3.0) via homebrew on OSX:
+For this to work, you first need to install FFMPEG (<v.3.0) via [homebrew](http://brew.sh) on OSX:
 ```
 brew install https://raw.githubusercontent.com/Homebrew/homebrew/b42854ae8085fb60ff72a47021a683373ed97e7b/Library/Formula/ffmpeg.rb
 ```
